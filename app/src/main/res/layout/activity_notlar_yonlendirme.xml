@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NotlarYonlendirme"
+    android:orientation="vertical"
+    android:background="@drawable/tarihce5"
+    android:alpha="0.8">
+
+
+    <TextView
+        android:alpha="0.9"
+        android:textSize="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="İstanbul, Türkiye'nin en kalabalık ve iktisadi açıdan en önde gelen şehri, finans merkezi. Belediye sınırları göz önüne alınarak yapılan sıralamaya göre, 13.8 milyonluk nüfusuyla, nüfus sıralamasında Dünya'nın 5. büyük şehridir. İstanbul Türkiye'nin kuzeybatısında, Marmara kıyısı ve Boğaziçi boyunca, Haliç'i de çevreleyecek şekilde kurulmuştur. İstanbul kıtalararası bir şehir olup, Avrupa'daki bölümüne Avrupa Yakası veya Rumeli Yakası, Asya'daki bölümüne ise Anadolu Yakası denir. Tarihte ilk olarak üç tarafı Marmara Denizi, Boğaziçi ve Haliç'in sardığı bir yarım ada üzerinde kurulan İstanbul'un batıdaki sınırını İstanbul Surları oluşturmaktaydı. Gelişme ve büyüme sürecinde surların her seferinde daha batıya ilerletilerek inşa edilmesiyle 4 defa genişletilen şehrin 40 ilçesi vardır. Sınırları içerisinde ise büyükşehir belediyesi ile birlikte toplam 39 belediye bulunmaktadır. 2010 yılında Avrupa Kültür Başkenti olacak olan şehirde, bu bağlamda hazırlıklar, çalışmalar ve projeler devam etmektedir. Dünyanın en eski şehirlerinden biri olan İstanbul, 330 - 395 yılları arasında Roma İmparatorluğu, 395 - 1204 ile 1261 - 1453 yılları arasında Doğu Roma İmparatorluğu, 1204 - 1261 arasında Latin İmparatorluğu ve son olarak 1453 - 1922 yılları arasında Osmanlı İmparatorluğu'na başkentlik yaptı. Ayrıca, hilafetin Osmanlı Devleti'ne geçtiği 1517'den, kaldırıldığı 1924'e kadar, İstanbul İslamiyet'in de merkezi oldu."
+        android:textColor="@color/white"
+        android:padding="22dp"/>
+
+
+
+</LinearLayout>

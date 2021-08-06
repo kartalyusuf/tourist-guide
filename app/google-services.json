@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937406102272",
+    "project_id": "navigationdrawer2-bad62",
+    "storage_bucket": "navigationdrawer2-bad62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937406102272:android:8ad744a4f14bd99155d1e5",
+        "android_client_info": {
+          "package_name": "com.kartal.navigationdrawer2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937406102272-88db058rh4krt5qih2qqbuv9cult0mk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgVXILMbq7xGZQW2VGbi7qAxT0jpFVyz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937406102272-88db058rh4krt5qih2qqbuv9cult0mk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

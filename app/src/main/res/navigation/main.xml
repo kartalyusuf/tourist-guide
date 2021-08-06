@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/anasayfa">
+
+    <fragment
+        android:id="@+id/anasayfa"
+        android:name="com.kartal.navigationdrawer2.AnasayfaFragment"
+        android:label="Profil"
+        tools:layout="@layout/fragment_anasayfa" >
+
+    </fragment>
+    <fragment
+        android:id="@+id/galeri"
+        android:name="com.kartal.navigationdrawer2.GaleriFragment"
+        android:label="Resim Galerisi"
+        tools:layout="@layout/fragment_galeri" >
+
+    </fragment>
+    <fragment
+        android:id="@+id/gezilecek"
+        android:name="com.kartal.navigationdrawer2.GezilecekYerler"
+        android:label="Döviz"
+        tools:layout="@layout/fragment_gezilecekyerler" >
+
+    </fragment>
+    <fragment
+        android:id="@+id/doviz"
+        android:name="com.kartal.navigationdrawer2.DovizFragment"
+        android:label="Döviz"
+        tools:layout="@layout/fragment_doviz" >
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/yardim"
+        android:name="com.kartal.navigationdrawer2.YardimFragment"
+        android:label="fragment_yardim"
+        tools:layout="@layout/fragment_yardim" >
+
+    </fragment>
+
+</navigation>
